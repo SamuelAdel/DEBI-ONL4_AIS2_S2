@@ -4,7 +4,7 @@ import plotly.express as px
 
 from dash import Dash, dcc, html, Input, Output
 
-df = pd.read_excel('D:/git/depi/DEBI-ONL4_AIS2_S2/Data Analysis/sec12/Dash.xlsx')
+df = pd.read_excel('D:/git/depi/DEBI-ONL4_AIS2_S2/Data_Analysis/sec12/Dash.xlsx')
 
 app = Dash()
 
