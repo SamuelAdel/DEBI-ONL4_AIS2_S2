@@ -123,7 +123,7 @@ Predicted Price = $464,562,000
 
 ## Dashboard Preview
 
-## (image.png)
+## [dashboard](image.png)
 
 ## 👨‍💻 Author
 
