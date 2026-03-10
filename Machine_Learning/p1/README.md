@@ -49,9 +49,9 @@ The model used in this project:
 project/
 │
 ├── model.pkl
-├── dashboard.py
+├── app.py
 ├── visuals.py
-├── project.ipynb
+├── boston_housing.ipynb
 └── README.md
 ```
 
@@ -129,4 +129,4 @@ Predicted Price = $464,562,000
 
 Developed by **Samuel Adel**
 
-Machine Learning Student
+Machine Learning Engineer
