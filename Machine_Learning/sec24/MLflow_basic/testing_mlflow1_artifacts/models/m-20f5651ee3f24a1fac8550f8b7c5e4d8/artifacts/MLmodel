@@ -1,0 +1,23 @@
+artifact_path: file:D:/git/depi/DEBI-ONL4_AIS2_S2/testing_mlflow1_artifacts/models/m-20f5651ee3f24a1fac8550f8b7c5e4d8/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.10.1
+model_id: m-20f5651ee3f24a1fac8550f8b7c5e4d8
+model_size_bytes: 906921
+model_uuid: m-20f5651ee3f24a1fac8550f8b7c5e4d8
+prompts: null
+run_id: 7b3ed67397184b348681a5147fdb7df3
+utc_time_created: '2026-04-06 22:56:36.104906'
